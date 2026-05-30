@@ -5,7 +5,7 @@ Formula     : Area = pi x r x r
 
 Sample Output : 
 Enter radius of circle : 5
-Area of circle is : 78.6482
+Area of circle : 78.6482
 */
 
 #include<iostream>
