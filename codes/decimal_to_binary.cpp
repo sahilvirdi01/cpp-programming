@@ -1,6 +1,6 @@
 /*
 Title       : Decimal to Binary Conversion
-Description : This program converts decimal number(base 10), to binary number(base 2), its max limit is decimal number 15. This program doesn't works with decimal values with points 
+Description : This program converts decimal number(base 10), to binary number(base 2), its max limit is decimal number 15. This program doesn't works with decimal values with points (eg: 11.1, 7.85 etc)
 
 
 Sample Output
