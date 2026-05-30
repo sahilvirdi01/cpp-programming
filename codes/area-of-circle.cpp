@@ -3,7 +3,7 @@ Title       : Area of Circle
 Description : This program calculates the are of circle by its given radius.
 Formula     : Area = pi x r x r
 
-Sample Output 
+Sample Output : 
 Enter radius of circle : 5
 Area of circle is : 78.6482
 */
