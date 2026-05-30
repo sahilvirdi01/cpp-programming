@@ -4,7 +4,7 @@
  Formula     : A prime number is divisible only by 1 and itself.
  Note        : 1 is not considered prime.
 
- Sample Output
+ Sample Output :
  Enter a number: 7
  7 is a prime number.
 */
