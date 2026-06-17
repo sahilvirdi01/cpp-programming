@@ -68,5 +68,5 @@ g++ codes/add-two-numbers.cpp -o add-two-numbers
 
 ## Notes
 - The program paths in this README are matched to the current files in the `codes/` folder.
-- images are stored in `media/` folder.
+- Pattern example images are stored in the `media/` folder.
 
