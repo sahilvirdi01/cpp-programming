@@ -3,8 +3,8 @@ Title       : Even or odd number
 Description : This program checks whether given number is even or odd.
 
 Sample Output 
-Enter a number : 79
-Number is odd
+Enter a number : 70
+Number is even
 */
 
 #include<iostream>
