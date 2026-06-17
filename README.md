@@ -6,7 +6,7 @@ A beginner-friendly collection of basic C++ programs. Each example is designed f
 
 ## About this Repository
 - Covers core C++ topics with simple programs.
-- Each program file is intended to include:
+- Each program file includes:
   - problem description
   - input/output examples
   - sample output
